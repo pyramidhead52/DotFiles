@@ -11,5 +11,6 @@ loadkeys trq
 
 102
 
-# Live installer WiFi fix
-<code>ln -s /etc/sv/wpa_supplicant /etc/runit/runsvdir/default/</code>
+# Live installer WiFi bug
+
+https://github.com/void-linux/void-mklive/issues/5
