@@ -14,3 +14,9 @@ loadkeys trq
 # Live installer WiFi bug
 
 https://github.com/void-linux/void-mklive/issues/5
+
+# Live installer bugs to report
+
+GPT boot toggle warning
+
+File system screen confusing
